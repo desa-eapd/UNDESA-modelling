@@ -31,13 +31,9 @@ The adoption of these tools is expected to improve decision-making and national 
 ### Major Deliverables
 
 - Reports on planning gaps and data availability.
-
 - Customized macro-economic, micro-simulation, or CLEWS tools for each country, adapted for COVID-19 recovery and SDG implementation.
-
 - National training workshops on policy simulation tools.
-
 - Policy documents developed using simulation results.
-
 - Support for national engagement in regional and global policy dialogues.
 
 

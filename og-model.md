@@ -12,8 +12,12 @@ The Core Overlapping Generations Macroeconomy Model (OG-CORE) is an advanced qua
 ### All Country Projects:
 
 - Are context-specific, implemented in close communication with national partners to address specific national needs and interests.
+
 - Last between 6 to 12 months, depending on the degree of collaboration, data availability, existing technical capacities, and institutional dynamics.
+
 - Require strong collaboration with the participants and the establishment of an active technical modelling team where diverse institutions pool expertise.
+
 - The OG-Core Model: [OG-Core Model](https://pslmodels.github.io/OG-Core/content/intro/intro.html)
+
 - The OG Course: [OG Course](/og-course-info.md)
 

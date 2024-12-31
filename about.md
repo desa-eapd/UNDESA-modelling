@@ -9,7 +9,8 @@ permalink: /about/
 
   
 
-Policymakers in developing countries face numerous challenges in achieving sustainable development and advancing the UN Sustainable Development Goals (SDGs). These challenges are compounded by global crises in food, energy, and finance, which have hindered progress. A key issue is the limited evidence base available to policymakers for creating sustainable and inclusive strategies. Improving access to data and building the capacity to analyze it are essential to help policymakers navigate trade-offs and enhance decision-making. The Economic Analysis Policy Division of the UN Department of Economic and Social Affairs will implement a capacity development project for over 10 target countries from 2023-2027, funded by a $2 million Peace and Development Fund grant.
+Policymakers in developing countries face numerous challenges in achieving sustainable development and advancing the UN Sustainable Development Goals (SDGs). These challenges are compounded by global crises in food, energy, and finance, which have hindered progress. A key issue is the limited evidence base available to policymakers for creating sustainable and inclusive strategies. Improving access to data and building the capacity to analyze it are essential to help policymakers navigate trade-offs and enhance decision-making. The Economic Analysis Policy Division of the UN Department of Economic and Social Affairs will implement a capacity development project for over 10 target countries from 2023-2027. This project is funded by [the United Nations Peace and Development Trust Fund](https://www.un.org/en/unpdf/2030asd) with an allocated budget of $2 million.
+
 
   
 

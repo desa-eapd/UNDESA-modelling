@@ -20,5 +20,5 @@ The project will customize single-country models within the WEFM framework by ex
 
 ### Countries
 
-![Jordan Flag](./assets/img/jordan.png)  ![Tunisia Flag](./assets/img/tunisia.png)  
+[./assets/img/jordan.png](/2024-11-29-wefm.md)  ![Tunisia Flag](./assets/img/tunisia.png)  
 **Jordan** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tunisia**

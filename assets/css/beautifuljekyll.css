@@ -15,11 +15,11 @@ body {
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
-  background-color: {{ site.page-col | default: "#FFFFFF" }};
-  {% if site.page-img %}
-  background-image: url({{ site.page-img | relative_url }});
+  background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
+              url({{ site.page-img | relative_url }});
+  background-size: cover;
+  background-repeat: no-repeat;
   background-attachment: fixed;
-  {% endif %}
 }
 p {
   line-height: 1.5;
@@ -683,7 +683,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   color: #EEE;
 }
 .intro-header.big-img .img-desc {
-  background: rgba(30, 30, 30, 0.6);
+  background: rgba(15, 15, 15, 0.6);
   position: absolute;
   padding: 0.3125rem 0.625rem;
   font-size: 0.6875rem;

@@ -16,6 +16,7 @@ author: Economic Analysis and Policy Division (EAPD), Departments of Economic an
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  News & Events: "/"
   About the project 📋: "/about/"
   OG Model: "/og-model/"
   Clews Model: "/clews/"

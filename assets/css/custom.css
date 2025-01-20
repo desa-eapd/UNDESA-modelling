@@ -25,3 +25,38 @@ h1 {
 .custom-header:hover {
     opacity: 0.9; /* Slight opacity effect when hovering */
 }
+/* Styling for each post card */
+.post-card {
+    background-color: #f9f9f9;  /* Light background color */
+    padding: 20px;              /* Adds padding inside the post */
+    border-radius: 8px;         /* Rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);  /* Adds subtle shadow */
+    transition: all 0.3s ease;  /* Smooth transition on hover */
+}
+
+/* Hover effect for posts */
+.post-card:hover {
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15); /* Increases shadow on hover */
+    transform: translateY(-5px); /* Slight upward movement on hover */
+}
+
+/* Styling for the post title */
+.post-title {
+    font-size: 20px;        /* Adjusts the font size of the title */
+    font-weight: bold;      /* Makes the title bold */
+    margin-bottom: 10px;    /* Adds space below the title */
+}
+
+/* Styling for the post excerpt */
+.post-card p {
+    font-size: 16px;
+    color: #555;  /* Sets the color to a lighter gray for the excerpt */
+    margin-bottom: 15px;
+}
+
+/* Makes sure posts stack on smaller screens */
+@media (max-width: 768px) {
+    .col-md-4 {
+        flex: 1 1 100%;  /* Ensures that each post takes up 100% of the width on smaller screens */
+    }
+}

@@ -8,3 +8,20 @@ h1 {
     display: block;
     margin: 10px 0;
 }
+
+.custom-header {
+    background: linear-gradient(135deg, #00c6ff, #ff00d1); /* Gradient background */
+    color: white;                /* White text color */
+    font-size: 36px;             /* Larger font size */
+    font-weight: bold;           /* Bold text */
+    padding: 15px 30px;          /* Padding around the title */
+    text-align: center;          /* Center align the text */
+    border-radius: 8px;          /* Rounded corners for the background */
+    display: inline-block;       /* Ensures the background is just around the text */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15); /* Subtle shadow effect */
+    margin-bottom: 20px;         /* Adds space below the header */
+}
+
+.custom-header:hover {
+    opacity: 0.9; /* Slight opacity effect when hovering */
+}

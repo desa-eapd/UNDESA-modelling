@@ -28,9 +28,9 @@ h1 {
 
 title {
     text-align: center; /* Center-aligns the text */
-    width: 100%; /* Ensures the title takes the full width */
+    width: 60%; /* Ensures the title takes the full width */
     margin: 0 auto; /* Centers the container */
-    font-size: 3rem; /* Adjust font size as needed */
+    font-size: 1rem; /* Adjust font size as needed */
 }
 .container {
     max-width: 100%; /* Removes width limitation */

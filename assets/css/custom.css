@@ -25,3 +25,14 @@ h1 {
 .custom-header:hover {
     opacity: 0.9; /* Slight opacity effect when hovering */
 }
+
+h1 {
+    text-align: center; /* Center-aligns the text */
+    width: 100%; /* Ensures the title takes the full width */
+    margin: 0 auto; /* Centers the container */
+    font-size: 3rem; /* Adjust font size as needed */
+}
+.container {
+    max-width: 100%; /* Removes width limitation */
+    padding: 0;
+}

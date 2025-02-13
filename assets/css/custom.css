@@ -10,7 +10,7 @@ h1 {
 }
 
 .custom-header {
-    background: linear-gradient(135deg, #00c6ff); /*  */
+    background: linear-gradient#00c6ff; /*  */
     color: white;                /* White text color */
     font-size: 36px;             /* Larger font size */
     font-weight: bold;           /* Bold text */

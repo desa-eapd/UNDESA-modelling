@@ -121,9 +121,12 @@ img {
 
 /* --- Navbar --- */
 .navbar-custom {
-  background-color: transparent; /* Keeping background transparent */
-  border-bottom: 1px solid #1162a5;
+  background-color: #1162a5;
+  border-bottom: 1px solid #a5112a;
   font-family: 'Arial', 'Open Sans', sans-serif;
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
 }
 
 .navbar-custom .navbar-nav {

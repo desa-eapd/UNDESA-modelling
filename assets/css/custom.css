@@ -8,7 +8,9 @@ h1 {
     display: block;
     margin: 10px 0;
 }
-
+.navbar a {
+    text-decoration: none !important;
+}
 a {
     color: {{ site.link-col | default: "#008AFF" }};
     text-decoration: none; /* Ensuring no underline by default */

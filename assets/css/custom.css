@@ -9,31 +9,42 @@ h1 {
     margin: 10px 0;
 }
 
+a {
+    color: {{ site.link-col | default: "#008AFF" }};
+    text-decoration: none; /* Ensuring no underline by default */
+}
+
+a:hover,
+a:focus {
+    color: {{ site.hover-col | default: "#0085A1" }};
+}
+
 .custom-header {
-    background: linear-gradient(135deg, #00c6ff, #222224); /* Gradient background */
-    color: white;                /* White text color */
-    font-size: 36px;             /* Larger font size */
-    font-weight: bold;           /* Bold text */
-    padding: 15px 30px;          /* Padding around the title */
-    text-align: center;          /* Center align the text */
-    border-radius: 8px;          /* Rounded corners for the background */
-    display: inline-block;       /* Ensures the background is just around the text */
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15); /* Subtle shadow effect */
-    margin-bottom: 20px;         /* Adds space below the header */
+    background: linear-gradient(135deg, #00c6ff, #222224);
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    padding: 15px 30px;
+    text-align: center;
+    border-radius: 8px;
+    display: inline-block;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+    margin-bottom: 20px;
 }
 
 .custom-header:hover {
-    opacity: 0.9; /* Slight opacity effect when hovering */
+    opacity: 0.9;
 }
 
 title {
-    text-align: center; /* Center-aligns the text */
-    width: 100%; /* Ensures the title takes the full width */
-    margin: 0 auto; /* Centers the container */
-    font-size: 3rem; /* Adjust font size as needed */
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    font-size: 3rem;
 }
+
 .container {
-    max-width: 100%; /* Removes width limitation */
+    max-width: 100%;
     padding: 0;
 }
 

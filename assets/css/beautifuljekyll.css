@@ -125,6 +125,7 @@ img {
   border-bottom: 1px solid #a5112a;
   font-family: 'Arial', 'Open Sans', sans-serif;
   display: flex;
+  float:left;
   justify-content: center; /* Centers horizontally */
   align-items: center; /* Centers vertically */
 }
